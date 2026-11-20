@@ -1,10 +1,10 @@
 # MTA:SA ANDROID
 
-""Android" (https://img.shields.io/badge/Plataforma-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)" (#)
-""ARM64" (https://img.shields.io/badge/Arquitetura-ARM64-blue?style=for-the-badge)" (#)
-""C++" (https://img.shields.io/badge/Linguagem-C%2B%2B-orange?style=for-the-badge&logo=cplusplus&logoColor=white)" (#)
-""Equipe" (https://img.shields.io/badge/Equipe-5%20Desenvolvedores-purple?style=for-the-badge)" (#)
-""Status" (https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)" (#)
+[![Android](https://img.shields.io/badge/Plataforma-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![ARM64](https://img.shields.io/badge/Arquitetura-ARM64-blue?style=for-the-badge)](#)
+[![C++](https://img.shields.io/badge/Linguagem-C%2B%2B-orange?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+[![Equipe](https://img.shields.io/badge/Equipe-5%20Desenvolvedores-purple?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)](#)
 
 Projeto independente desenvolvido por uma equipe de cinco desenvolvedores, dedicado à criação e ao aprimoramento de um cliente Android do Multi Theft Auto: San Andreas (MTA:SA).
 
