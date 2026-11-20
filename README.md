@@ -1,4 +1,4 @@
-# - MTA:SA ANDROID
+# MTA:SA ANDROID
 
 ""Android" (https://img.shields.io/badge/Plataforma-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)" (#)
 ""ARM64" (https://img.shields.io/badge/Arquitetura-ARM64-blue?style=for-the-badge)" (#)
